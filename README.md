@@ -10,6 +10,8 @@ https://medium.com/ninjaconcept/interactive-dynamic-force-directed-graphs-with-d
 
 #Tutorials
 
+https://www.youtube.com/playlist?list=PLPtgdQ4YE9cgdPwOKShhPHdVEseLPGd_t
+
 Newbies Guide to Python-igraph
 https://towardsdatascience.com/newbies-guide-to-python-igraph-4e51689c35b4
 
